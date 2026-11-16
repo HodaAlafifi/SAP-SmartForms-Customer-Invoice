@@ -50,7 +50,7 @@ Displays:
 ## Project Output
 The Smart Form generates a formatted Customer Invoice containing the invoice details and customer information.
 
-Add your invoice output screenshot here.
+![Customer Invoice](CUSTOMER%20INVOICE.png)
 
 ## Learning Outcomes
 - Working with SAP database tables.
